@@ -1,3 +1,4 @@
 This is index.txt file.
 
 HomePage file is in feature1 branch
+AboutPage file is inside feature2 branch
